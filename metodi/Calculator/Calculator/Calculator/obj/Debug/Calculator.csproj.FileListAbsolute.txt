@@ -1,0 +1,5 @@
+C:\Users\Andrey\Downloads\metodi\metodi\Calculator\Calculator\Calculator\bin\Debug\Calculator.dll
+C:\Users\Andrey\Downloads\metodi\metodi\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Andrey\Downloads\metodi\metodi\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Downloads\metodi\metodi\Calculator\Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\Andrey\Downloads\metodi\metodi\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
