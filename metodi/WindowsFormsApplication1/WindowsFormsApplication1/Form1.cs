@@ -23,7 +23,7 @@ namespace WindowsFormsApplication1
             }
             catch (Exception)
             {
-                result.Text = @"Division to zero";
+                result.Text = @"На ноль делишь";
             }
         }
 
