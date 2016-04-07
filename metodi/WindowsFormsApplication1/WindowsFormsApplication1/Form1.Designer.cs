@@ -104,9 +104,9 @@
             // 
             // result
             // 
-            this.result.Location = new System.Drawing.Point(379, 47);
+            this.result.Location = new System.Drawing.Point(379, 49);
             this.result.Name = "result";
-            this.result.Size = new System.Drawing.Size(100, 20);
+            this.result.Size = new System.Drawing.Size(137, 20);
             this.result.TabIndex = 7;
             // 
             // mod
@@ -123,7 +123,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(515, 287);
+            this.ClientSize = new System.Drawing.Size(528, 195);
             this.Controls.Add(this.mod);
             this.Controls.Add(this.result);
             this.Controls.Add(this.equal);
@@ -133,6 +133,8 @@
             this.Controls.Add(this.addition);
             this.Controls.Add(this.secondParameter);
             this.Controls.Add(this.firstParameter);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.HelpButton = true;
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
